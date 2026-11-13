@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/08-KnowledgeLinkerX.jpg" alt="KnowledgeLinkerX 项目封面" width="100%"></p>
+
 # 📱 KnowledgeLinkerX
 
 **微信小程序 & 公众号导航中心，一页聚合你的所有小程序入口。**
